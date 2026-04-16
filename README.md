@@ -79,18 +79,21 @@ Gosto de trabalhar com **Java** e tecnologias web, desenvolvendo aplicações e 
 
 ---
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 🧠 Mentalidade
 
-  <img 
-      align="left" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
+- 🚀 Sempre buscando evoluir como desenvolvedor  
+- 💡 Focado em criar soluções reais, não só código  
+- 🔧 Melhorando constantemente lógica e estrutura de projetos  
+- 📈 Evolução contínua todos os dias  
+
+---
+
+### 📌 Próximos passos
+
+- 🔹 Aprimorar back-end com Java  
+- 🔹 Desenvolver APIs REST completas  
+- 🔹 Integrar front-end com back-end  
+- 🔹 Trabalhar com banco de dados (MySQL / PostgreSQL)  
+
