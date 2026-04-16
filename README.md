@@ -28,11 +28,11 @@ Gosto de trabalhar com **Java** e tecnologias web, desenvolvendo aplicações e 
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Atividade
 
-- 🖥️ Loja **Danados Tech**
-- ⚙️ Sistema de compatibilidade de PCs  
-- 🌐 Projetos web (front-end e back-end)
+- 💻 Desenvolvendo projetos próprios
+- 📚 Estudando Java, APIs e banco de dados
+- ⚙️ Evoluindo como desenvolvedor fullstack
 
 ---
 
