@@ -18,6 +18,7 @@ Atualmente foco meus estudos em <strong>Java</strong>, APIs REST, banco de dados
 ## 🌐 Redes & Contato
 
 <p align="left">
+
 <a href="https://github.com/iLGuilhermeDev" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -29,6 +30,7 @@ Atualmente foco meus estudos em <strong>Java</strong>, APIs REST, banco de dados
 <a href="https://www.linkedin.com/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -57,11 +59,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLGuilhermeD
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img 
+align="center" 
+alt="Java"
+title="Java" 
+width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img 
+align="center" 
+alt="MySQL"
+title="MySQL" 
+width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img 
+align="center" 
+alt="PostgreSQL"
+title="PostgreSQL" 
+width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
 
 </p>
 
@@ -71,11 +91,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLGuilhermeD
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img 
+align="center" 
+alt="HTML"
+title="HTML5" 
+width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img 
+align="center" 
+alt="CSS"
+title="CSS3" 
+width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img 
+align="center" 
+alt="JavaScript"
+title="JavaScript" 
+width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
 
 </p>
 
@@ -85,11 +123,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLGuilhermeD
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img 
+align="center" 
+alt="Git"
+title="Git" 
+width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img 
+align="center" 
+alt="GitHub"
+title="GitHub" 
+width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
 
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img 
+align="center" 
+alt="VSCode"
+title="VSCode" 
+width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+/>
 
 </p>
 
