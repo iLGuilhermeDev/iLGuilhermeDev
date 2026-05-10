@@ -5,9 +5,11 @@
 ### 🚀 Desenvolvedor FullStack | Java & Web Development
 
 <p align="left">
-Sou apaixonado por tecnologia e desenvolvimento de software.  
+Sou apaixonado por tecnologia e desenvolvimento de software.<br>
 Busco constantemente evoluir minhas habilidades no <strong>front-end</strong> e <strong>back-end</strong>, criando projetos modernos, funcionais e escaláveis.
+</p>
 
+<p align="left">
 Atualmente foco meus estudos em <strong>Java</strong>, APIs REST, banco de dados e desenvolvimento web completo.
 </p>
 
@@ -16,15 +18,15 @@ Atualmente foco meus estudos em <strong>Java</strong>, APIs REST, banco de dados
 ## 🌐 Redes & Contato
 
 <p align="left">
-<a href="https://github.com/SEUUSUARIO">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/iLGuilhermeDev" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
@@ -33,16 +35,18 @@ Atualmente foco meus estudos em <strong>Java</strong>, APIs REST, banco de dados
 
 ## 📊 Estatísticas GitHub
 
-<p>
+<p align="center">
+
 <img 
 height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+src="https://github-readme-stats.vercel.app/api?username=iLGuilhermeDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img 
 height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLGuilhermeDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
+
 </p>
 
 ---
@@ -50,84 +54,55 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&t
 ## 🚀 Tecnologias
 
 ### 💻 Back-end
+
 <p align="left">
-<img 
-align="center" 
-alt="Java"
-title="Java" 
-width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
 
-<img 
-align="center" 
-alt="MySQL"
-title="MySQL" 
-width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img 
-align="center" 
-alt="PostgreSQL"
-title="PostgreSQL" 
-width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
+
+---
 
 ### 🎨 Front-end
+
 <p align="left">
-<img 
-align="center" 
-alt="HTML"
-title="HTML" 
-width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
 
-<img 
-align="center" 
-alt="CSS"
-title="CSS" 
-width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img 
-align="center" 
-alt="JavaScript"
-title="JavaScript" 
-width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 
+---
+
 ### ⚙️ Ferramentas
+
 <p align="left">
-<img 
-align="center" 
-alt="Git"
-title="Git" 
-width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+## 🔥 Contribuições
+
+<p align="center">
 
 <img 
-align="center" 
-alt="GitHub"
-title="GitHub" 
-width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=iLGuilhermeDev&theme=tokyonight" 
 />
 
-<img 
-align="center" 
-alt="VSCode"
-title="VSCode" 
-width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-/>
 </p>
 
 ---
@@ -159,7 +134,7 @@ while(!sucesso){
 
 ---
 
-## 🔥 Objetivos
+## 🎯 Objetivos
 
 - ✅ Aprimorar Java Back-end
 - ✅ Criar APIs REST completas
@@ -170,11 +145,13 @@ while(!sucesso){
 ---
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&row=1&column=6"/>
+
+<img src="https://komarev.com/ghpvc/?username=iLGuilhermeDev&label=Visualizações&color=1f6feb&style=for-the-badge"/>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
 </p>
