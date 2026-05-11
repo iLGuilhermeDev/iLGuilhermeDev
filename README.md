@@ -4,22 +4,17 @@
 
 ### 🚀 Desenvolvedor FullStack | Java & Web Development
 
-<p align="left">
-Sou apaixonado por tecnologia e desenvolvimento de software.<br>
-Busco constantemente evoluir minhas habilidades no <strong>front-end</strong> e <strong>back-end</strong>, criando projetos modernos, funcionais e escaláveis.
-</p>
+Sou apaixonado por tecnologia e desenvolvimento de software.  
+Busco constantemente evoluir minhas habilidades no front-end e back-end, criando projetos modernos, funcionais e escaláveis.
 
-<p align="left">
-Atualmente foco meus estudos em <strong>Java</strong>, APIs REST, banco de dados e desenvolvimento web completo.
-</p>
+Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolvimento web completo.
 
 ---
 
 ## 🌐 Redes & Contato
 
 <p align="left">
-
-<a href="https://github.com/iLGuilhermeDev" target="_blank">
+<a href="https://github.com/iLGuilhermeDev">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -27,62 +22,29 @@ Atualmente foco meus estudos em <strong>Java</strong>, APIs REST, banco de dados
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## 📊 Estatísticas GitHub
+# 📊 GitHub Stats
 
 <p align="center">
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iLGuilhermeDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=iLGuilhermeDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLGuilhermeDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iLGuilhermeDev&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 ### 💻 Back-end
 
 <p align="left">
-
-<img 
-align="center" 
-alt="Java"
-title="Java" 
-width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
-
-<img 
-align="center" 
-alt="MySQL"
-title="MySQL" 
-width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-align="center" 
-alt="PostgreSQL"
-title="PostgreSQL" 
-width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-/>
-
+<img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
 ---
@@ -90,31 +52,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 ### 🎨 Front-end
 
 <p align="left">
-
-<img 
-align="center" 
-alt="HTML"
-title="HTML5" 
-width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-
-<img 
-align="center" 
-alt="CSS"
-title="CSS3" 
-width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-
-<img 
-align="center" 
-alt="JavaScript"
-title="JavaScript" 
-width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-
+<img alt="HTML" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img alt="CSS" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </p>
 
 ---
@@ -122,48 +60,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 ### ⚙️ Ferramentas
 
 <p align="left">
-
-<img 
-align="center" 
-alt="Git"
-title="Git" 
-width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<img 
-align="center" 
-alt="GitHub"
-title="GitHub" 
-width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
-
-<img 
-align="center" 
-alt="VSCode"
-title="VSCode" 
-width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-/>
-
+<img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img alt="VSCode" title="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
 ---
 
-## 🔥 Contribuições
+# 🔥 Contribuições
 
 <p align="center">
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=iLGuilhermeDev&theme=tokyonight" 
-/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iLGuilhermeDev&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📌 Atualmente
+# 📌 Atualmente
 
 - 💻 Desenvolvendo projetos próprios
 - 📚 Estudando Java avançado e APIs REST
@@ -173,7 +83,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=iLGuilhermeDev&theme
 
 ---
 
-## 🧠 Mentalidade
+# 🧠 Mentalidade
 
 ```java
 while(!sucesso){
@@ -190,7 +100,7 @@ while(!sucesso){
 
 ---
 
-## 🎯 Objetivos
+# 🎯 Objetivos
 
 - ✅ Aprimorar Java Back-end
 - ✅ Criar APIs REST completas
@@ -201,9 +111,7 @@ while(!sucesso){
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=iLGuilhermeDev&label=Visualizações&color=1f6feb&style=for-the-badge"/>
-
 </p>
 
 ---
