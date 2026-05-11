@@ -111,10 +111,8 @@ while(!sucesso){
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=iLGuilhermeDev&label=Visualizações&color=1f6feb&style=for-the-badge"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=180&section=footer&text=Everybody%20wants%20a%20happy%20ending,%20right?%20But%20it%20doesn%E2%80%99t%20always%20roll%20that%20way.&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 </p>
-
----
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
