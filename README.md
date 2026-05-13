@@ -5,7 +5,7 @@
 ### 🚀 Desenvolvedor FullStack | Java & Web Development
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=FullStack+Developer;Java+Back-end;Front-end+Developer;Always+learning+new+technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=FullStack+Developer;Java+Back-end;Front-end+Developer;Python+Developer;Always+learning+new+technologies"/>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 Sou apaixonado por tecnologia e desenvolvimento de software.  
 Busco constantemente evoluir minhas habilidades no front-end e back-end, criando projetos modernos, funcionais e escaláveis.
 
-Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolvimento web completo.
+Atualmente foco meus estudos em Java, Python, APIs REST, banco de dados e desenvolvimento web completo.
 
 ---
 
@@ -55,6 +55,7 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 
 <p align="left">
 <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
@@ -75,7 +76,7 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 
 <p align="left">
 <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img alt="GitHub" title="GitHub" width="50px" src="https://skillicons.dev/icons?i=github"/>
 <img alt="VSCode" title="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
@@ -97,25 +98,6 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 
 ---
 
-# ⭐ Projetos Destaque
-
-- 🛒 Danados Tech — Loja de peças de PC
-- ⚙️ Sistema FullStack Java
-- 🌐 API REST com Spring Boot
-- 📦 Gerenciador de Produtos
-
----
-
-# 📌 Atualmente
-
-- 💻 Desenvolvendo projetos próprios
-- 📚 Estudando Java avançado e APIs REST
-- ⚙️ Aprendendo integração entre front-end e back-end
-- 🗄️ Trabalhando com bancos de dados SQL
-- 🚀 Evoluindo diariamente como desenvolvedor fullstack
-
----
-
 # 🧠 Mentalidade
 
 ```java
@@ -125,21 +107,6 @@ while(!sucesso){
     evoluir();
 }
 ```
-
-- 🚀 Evolução constante
-- 💡 Criar soluções reais
-- 🔧 Código limpo e organizado
-- 📈 Aprendizado contínuo
-
----
-
-# 🎯 Objetivos
-
-- ✅ Aprimorar Java Back-end
-- ✅ Criar APIs REST completas
-- ✅ Desenvolver sistemas fullstack
-- ✅ Trabalhar com Spring Boot
-- ✅ Melhorar arquitetura de software
 
 ---
 
