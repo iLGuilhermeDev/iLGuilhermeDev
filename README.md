@@ -4,6 +4,12 @@
 
 ### 🚀 Desenvolvedor FullStack | Java & Web Development
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=FullStack+Developer;Java+Back-end;Front-end+Developer;Always+learning+new+technologies"/>
+</p>
+
+---
+
 Sou apaixonado por tecnologia e desenvolvimento de software.  
 Busco constantemente evoluir minhas habilidades no front-end e back-end, criando projetos modernos, funcionais e escaláveis.
 
@@ -11,9 +17,10 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 
 ---
 
-## 🌐 Redes & Contato
+# 🌐 Redes & Contato
 
 <p align="left">
+
 <a href="https://github.com/iLGuilhermeDev">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -25,6 +32,7 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -32,9 +40,11 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 # 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iLGuilhermeDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iLGuilhermeDev&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -44,7 +54,9 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 ### 💻 Back-end
 
 <p align="left">
-<img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
 ---
@@ -52,7 +64,9 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 ### 🎨 Front-end
 
 <p align="left">
-<img alt="HTML" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img alt="CSS" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="HTML" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </p>
 
 ---
@@ -60,7 +74,9 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 ### ⚙️ Ferramentas
 
 <p align="left">
-<img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img alt="VSCode" title="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img alt="VSCode" title="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
 ---
@@ -70,6 +86,23 @@ Atualmente foco meus estudos em Java, APIs REST, banco de dados e desenvolviment
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iLGuilhermeDev&theme=tokyonight"/>
 </p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iLGuilhermeDev&theme=tokyo-night"/>
+</p>
+
+---
+
+# ⭐ Projetos Destaque
+
+- 🛒 Danados Tech — Loja de peças de PC
+- ⚙️ Sistema FullStack Java
+- 🌐 API REST com Spring Boot
+- 📦 Gerenciador de Produtos
 
 ---
 
@@ -111,7 +144,11 @@ while(!sucesso){
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=180&section=footer&text=Everybody%20wants%20a%20happy%20ending,%20right?%20But%20it%20doesn%E2%80%99t%20always%20roll%20that%20way.&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+<img src="https://komarev.com/ghpvc/?username=iLGuilhermeDev&label=Visualizações&color=1f6feb&style=for-the-badge"/>
 </p>
 
+---
 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=180&section=footer&text=Intelligence%20is%20a%20privilege,%20and%20it%20needs%20to%20be%20used%20for%20the%20greater%20good.&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+</p>
