@@ -10,10 +10,42 @@
 
 ---
 
-Sou apaixonado por tecnologia e desenvolvimento de software.  
-Busco constantemente evoluir minhas habilidades no front-end e back-end, criando projetos modernos, funcionais e escaláveis.
+```javascript
+const luis = {
+  role: [
+    "FullStack Developer",
+    "Java Developer",
+    "Front-end Developer",
+  ],
 
-Atualmente foco meus estudos em Java, Python, APIs REST, banco de dados e desenvolvimento web completo.
+  backend: [
+    "Java",
+    "Python",
+    "MySQL",
+    "PostgreSQL"
+  ],
+
+  frontend: [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "IntelliJ IDEA"
+  ],
+
+  focus: [
+    "REST APIs",
+    "FullStack Applications",
+    "Software Development"
+  ],
+
+  mindset: "Always learning, always evolving",
+};
+```
 
 ---
 
@@ -77,7 +109,35 @@ Atualmente foco meus estudos em Java, Python, APIs REST, banco de dados e desenv
 <p align="left">
 <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="GitHub" title="GitHub" width="50px" src="https://skillicons.dev/icons?i=github"/>
-<img alt="VSCode" title="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img alt="IntelliJ" title="IntelliJ IDEA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+</p>
+
+---
+
+# ⭐ Projetos Destaque
+
+<p align="center">
+
+<a href="https://github.com/iLGuilhermeDev/sistema-bancario-gui">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=sistema-bancario-gui&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/iLGuilhermeDev/controle-de-gastos">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=controle-de-gastos&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/iLGuilhermeDev/GerenciamentoEstoque-java">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=GerenciamentoEstoque-java&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/iLGuilhermeDev/Projetos_site">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=Projetos_site&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/iLGuilhermeDev/ProjectCam">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=ProjectCam&theme=tokyonight"/>
+</a>
+
 </p>
 
 ---
