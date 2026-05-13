@@ -1,8 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Luis%20Guilherme&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 👨‍💻 Luis Guilherme
-
-### 🚀 Desenvolvedor FullStack | Java & Web Development
+## 🚀 Desenvolvedor FullStack | Java & Web Development
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=FullStack+Developer;Java+Back-end;Front-end+Developer;Python+Developer;Always+learning+new+technologies"/>
@@ -110,34 +108,6 @@ const luis = {
 <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="GitHub" title="GitHub" width="50px" src="https://skillicons.dev/icons?i=github"/>
 <img alt="IntelliJ" title="IntelliJ IDEA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-</p>
-
----
-
-# ⭐ Projetos Destaque
-
-<p align="center">
-
-<a href="https://github.com/iLGuilhermeDev/sistema-bancario-gui">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=sistema-bancario-gui&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/iLGuilhermeDev/controle-de-gastos">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=controle-de-gastos&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/iLGuilhermeDev/GerenciamentoEstoque-java">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=GerenciamentoEstoque-java&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/iLGuilhermeDev/Projetos_site">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=Projetos_site&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/iLGuilhermeDev/ProjectCam">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=iLGuilhermeDev&repo=ProjectCam&theme=tokyonight"/>
-</a>
-
 </p>
 
 ---
